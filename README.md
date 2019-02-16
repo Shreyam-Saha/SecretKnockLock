@@ -6,3 +6,4 @@ If the user forgets or looses his keys he/she will will still be able to unlock 
 Also the user can give this Secret Knock to whomever he/she wants so that the user doesnt have to attend the door everytime their close friends come by.
 This is our first prototype and various other security features will be added after a short interval of development and research time that connects various features of IoT with the project
 Thank u
+This Project was done in Collaboration with Subhanghkar Chakraborty and Saugata Mahali .
